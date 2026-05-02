@@ -22,8 +22,8 @@ This project uses `conda` to manage dependencies, ensuring seamless installation
 Once activated, you can install the required packages. As the project evolves, we'll maintain a `requirements.txt` or `environment.yml`. For now, you can install some baseline tools for PDF analysis:
 
 ```bash
-# Example baseline packages
-conda install -c conda-forge PyPDF2 pdfplumber pandas jupyter -y
+# Example baseline packages and RAG tools
+conda install -c conda-forge PyPDF2 pdfplumber pandas jupyter pypdf langchain langchain-community chromadb sentence-transformers -y
 ```
 
 When you are done working, you can deactivate the environment:
