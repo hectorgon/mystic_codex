@@ -11,4 +11,6 @@ This project is designed to facilitate exploration, knowledge extraction, and cr
 - `lore/`: The foundational knowledge base, categorized into characters, practices, realms, frameworks, and more.
 
 ## Setup
+Install Anaconda from https://www.anaconda.com/download/success?reg=skipped
+
 Please refer to `conda_setup.md` for instructions on creating the virtual environment for this project.
