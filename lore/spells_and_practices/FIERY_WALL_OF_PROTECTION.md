@@ -29,6 +29,20 @@
 
 The "Fiery Wall of Protection" as a concept often revolves around the aggressive use of fire, sulfur (brimstone), and pungent smoke. While modern practitioners might use a pre-made oil, the traditional roots found in the corpus emphasize the raw act of burning these potent materials to fumigate the home and cast out negativity.
 
+## Source Lineage
+
+> "Well, the protection from that [spell] in hoodoo is to take and burn a black candle in [your] back shed, back out in the open where the air can hit it and [it can] go into the dark corners, and that [going into dark corners] drives the evil away from you anywhere."
+> *(Hoodoo Conjuration Witchcraft & Rootwork Vol 1, Page 918)*
+
+> "Every morning they '4-rate dat stove, when it got hot, you know, so that sulphur would burn, they would sprinkle some of that sulphur on the stove. Said that kept off the evil spirits and give them luck. Druv [drove] the evil spirits out of the house..."
+> *(Hoodoo Conjuration Witchcraft & Rootwork Vol 5, Page 695)*
+
+> "Take sulphur and a little lard and spread 'cross your door - doorstep every .arning [morning], and it'll harm you... if somebody did that to my door or - something to harm me..."
+> *(Hoodoo Conjuration Witchcraft & Rootwork Vol 5, Page 699)*
+
+> "Well, they claim that if you take gunpowder and bluestone and aloes... And burn incense along with that. And burn all of it together, it'll have an effect, a tendency to keep bootleggers [he means the police] away from your house..."
+> *(Hoodoo Conjuration Witchcraft & Rootwork Vol 5, Page 304)*
+
 ## Sources
 - *Hoodoo Conjuration Witchcraft & Rootwork Vol 1, Page 854, 918*
 - *Hoodoo Conjuration Witchcraft & Rootwork Vol 5, Page 695, 699, 304*

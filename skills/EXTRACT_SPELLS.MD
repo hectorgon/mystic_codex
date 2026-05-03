@@ -40,7 +40,7 @@ All extracted spells must follow this exact markdown structure. You MUST also ut
 Include cultural background, notes on variations, and thematic persona commentary here.
 
 ## Source Lineage
-In accordance with the `PRESERVE_LINEAGE.MD` skill, include exact summary snippets of the source material here to preserve intent and prevent the loss of important details.
+In accordance with the `PRESERVE_LINEAGE.MD` skill, include exact quoted passages of the source material here to preserve intent and prevent the loss of important details.
 
 > "Exact passage copied verbatim from the source text describing the ritual."
 > *(Hoodoo Conjuration Witchcraft & Rootwork Vol [X], Page [Y])*

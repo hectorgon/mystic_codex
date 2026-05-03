@@ -30,14 +30,16 @@ In the standardized output format of the extraction, include a dedicated **"Sour
 
 When generating the final markdown document, use blockquotes to present the extracted passages. Always append the source citation directly below the quote.
 
+Here is a concrete example derived from `scratch/raw_spell_extract_Fiery_Wall_of_Protection.md`:
+
 ```markdown
 ## Source Lineage
 
-> "Here is the exact quote from the corpus that describes the ritual in the informant's own words, preserving their specific phrasing, eccentricities, and emphasis."
-> *(Hoodoo Conjuration Witchcraft & Rootwork Vol X, Page Y)*
+> "Well, the protection from that [spell] in hoodoo is to take and burn a black candle in [your] back shed, back out in the open where the air can hit it and [it can] go into the dark corners, and that [going into dark corners] drives the evil away from you anywhere."
+> *(Hoodoo Conjuration Witchcraft & Rootwork Vol 1, Page 918)*
 
-> "Another crucial snippet that informed the ingredients list, exactly as written in the text. This allows us to see exactly where the synthesis came from."
-> *(Hoodoo Conjuration Witchcraft & Rootwork Vol Z, Page W)*
+> "Take sulphur and a little lard and spread 'cross your door - doorstep every .arning [morning], and it'll harm you... if somebody did that to my door or - something to harm me..."
+> *(Hoodoo Conjuration Witchcraft & Rootwork Vol 5, Page 699)*
 ```
 
 ## Integrating with Other Skills
