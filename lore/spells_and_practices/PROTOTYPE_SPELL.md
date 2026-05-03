@@ -18,6 +18,14 @@
 
 The Crossroads ritual represents the intersection of the physical and spiritual realms. It is arguably the most recognizable practice in Hoodoo and Southern conjuration, functioning both as a disposal method for dangerous items (where the converging energies disperse the spell) and a meeting place for pacts and power. Variations exist where the practitioner must return to the same crossroads for nine consecutive nights to achieve their request.
 
+## Source Lineage
+
+> "Exact passage copied verbatim from the source text describing the ritual."
+> *(Hoodoo Conjuration Witchcraft & Rootwork Vol 1, Page 42)*
+
+> "Another crucial snippet that informed the synthesis, exactly as written in the text."
+> *(Hoodoo Conjuration Witchcraft & Rootwork Vol 2, Page 118)*
+
 ## Sources
 - *Hoodoo Conjuration Witchcraft & Rootwork Vol 1, Page 42*
 - *Hoodoo Conjuration Witchcraft & Rootwork Vol 2, Page 118*

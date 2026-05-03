@@ -3,7 +3,7 @@
 This project uses `conda` to manage dependencies, ensuring seamless installation of data science and NLP libraries required for corpus analysis.
 
 ## Prerequisites
-- [Miniconda](https://docs.conda.io/en/latest/miniconda.html) or [Anaconda](https://www.anaconda.com/) installed on your system.
+- [Miniconda](https://docs.conda.io/en/latest/miniconda.html) or [Anaconda](https://www.anaconda.com/) installed on your system. (e.g., `C:\Users\hecto\miniconda3`)
 
 ## Creating the Environment
 

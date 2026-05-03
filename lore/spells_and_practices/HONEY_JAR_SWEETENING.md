@@ -37,6 +37,17 @@
 
 The sweetening spell is one of the most versatile tools in the rootworker's arsenal. Honey, sugar, and syrup are the universal agents of pacification. The physical act of folding the paper *towards* the practitioner is a sympathetic action representing drawing the person's energy and affection inward. 
 
+## Source Lineage
+
+> "...but honey is the best. Honey is better than sugar because honey is sweeter than sugar. And you put it in a saucer and you have that man's name down. And when you fold it, don't fold it from you, you fold it to you. And you put that candle there. Well, when that candle burn out, well, you see hit'll spread all over there, you see."
+> *(Hoodoo Conjuration Witchcraft & Rootwork Vol 5, Page 198)*
+
+> "You gets a can of Karo Syrup, can of Karo Syrup, and you get you a bottle of honey. They say, "What's sweeter than honey?" It's love. You understand? Then you get you a dime of ammonia - a bottle. You pour that into a quart bottle - into a quart bottle. And like you got a private room or cellar or pantry, you puts that away back in a corner in the dark."
+> *(Hoodoo Conjuration Witchcraft & Rootwork Vol 2, Page 730)*
+
+> "You write his name nine times on it. and you put it on a glass of water, this time, and a glass of honey. You have half water and half honey. The honey's going to the bottom and water coming to the top. And you burn these candles half on a Friday and you pinch 'em out. You don't never blow out a candle."
+> *(Hoodoo Conjuration Witchcraft & Rootwork Vol 2, Page 762)*
+
 ## Sources
 - *Hoodoo Conjuration Witchcraft & Rootwork Vol 2, Page 730, 762*
 - *Hoodoo Conjuration Witchcraft & Rootwork Vol 5, Page 198*
