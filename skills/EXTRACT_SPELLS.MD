@@ -20,7 +20,7 @@ When asked to research or extract a spell (e.g., "Mojo Hand", "Crossroads Ritual
 
 ## Standard Output Format
 
-All extracted spells must follow this exact markdown structure. See `lore/spells_and_practices/PROTOTYPE_SPELL.md` for a complete example.
+All extracted spells must follow this exact markdown structure. You MUST also utilize the `PRESERVE_LINEAGE.MD` skill to populate the "Source Lineage" section with exact passages. See `lore/spells_and_practices/PROTOTYPE_SPELL.md` for a complete example.
 
 ```markdown
 # [Name of Spell/Practice]
@@ -38,6 +38,12 @@ All extracted spells must follow this exact markdown structure. See `lore/spells
 
 ## Lore & Context
 Include cultural background, notes on variations, and thematic persona commentary here.
+
+## Source Lineage
+In accordance with the `PRESERVE_LINEAGE.MD` skill, include exact summary snippets of the source material here to preserve intent and prevent the loss of important details.
+
+> "Exact passage copied verbatim from the source text describing the ritual."
+> *(Hoodoo Conjuration Witchcraft & Rootwork Vol [X], Page [Y])*
 
 ## Sources
 - *Hoodoo Conjuration Witchcraft & Rootwork Vol [X], Page [Y]*
